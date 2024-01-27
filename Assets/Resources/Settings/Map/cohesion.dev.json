@@ -1,0 +1,52 @@
+﻿{
+    "MapCohesions": [
+        {
+            "Id": 0,
+            "SuitableMaps": [ 8 ]
+        },
+        {
+            "Id": 1,
+            "SuitableMaps": [ 3 ]
+        },
+        {
+            "Id": 2,
+            "SuitableMaps": [ 2 ]
+        },
+        {
+            "Id": 3,
+            "SuitableMaps": [ 12 ]
+        },
+        {
+            "Id": 4,
+            "SuitableMaps": [ 9]
+        },
+        {
+            "Id": 5,
+            "SuitableMaps": [ 3 ]
+        },
+        {
+            "Id": 6,
+            "SuitableMaps": [ 3 ]
+        },
+        {
+            "Id": 7,
+            "SuitableMaps": [ 5 ]
+        },
+        {
+            "Id": 8,
+            "SuitableMaps": [ 7 ]
+        },
+        {
+            "Id": 9,
+            "SuitableMaps": [ 0 ]
+        },
+        {
+            "Id": 10,
+            "SuitableMaps": [ 10 ]
+        },
+        {
+            "Id": 11,
+            "SuitableMaps": [ 11 ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+App Name:
+
+Short Desc:
+
+Full Desc:
+
+Icon: 512x512
+
+Feature Graphics:
+
+Phone Screenshot:
+
+
